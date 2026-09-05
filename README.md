@@ -1,38 +1,67 @@
 # Andreea Poamaneagra — IT Support Portfolio
 
-This folder contains the complete static website code for Andreea's portfolio.
+A practical portfolio showcasing my experience across IT support, Windows administration, networking, AWS cloud security, cybersecurity, web development, IoT and data analysis.
 
-## Open it in Visual Studio Code
+## 🌐 View the Live Portfolio
 
-1. Extract the ZIP file.
-2. Open Visual Studio Code.
-3. Select **File → Open Folder** and choose the extracted folder.
-4. Open `index.html`.
-5. To preview it, double-click `index.html` in File Explorer or install the **Live Server** extension and select **Go Live** in Visual Studio Code.
+### [Open my portfolio website](https://andreeavp.github.io/andreea-it-portfolio/)
 
-## Main files
+## About Me
 
-- `index.html` — website content and structure
-- `style.css` — colours, layout, animations and hover effects
-- `script.js` — interactive behaviour
-- `assets/` — project images and screenshots
-- `Andreea-Poamaneagra-CV.pdf` — downloadable CV used by the website
+I am an aspiring IT Support professional based in Doncaster, with a broad technical foundation developed through my HND in Digital Technologies, IT volunteering and practical academic projects.
 
-## Upload it to GitHub
+My experience includes end-user support, troubleshooting, Windows Server administration, user and permission management, network design, cloud security and data analysis. I am currently developing my knowledge further through CompTIA A+ preparation.
 
-1. Sign in to GitHub and select **New repository**.
-2. Name it `andreea-it-portfolio` and choose **Public**.
-3. Do not add a README, `.gitignore` or licence during creation.
-4. Open the new repository and select **uploading an existing file**.
-5. Upload all extracted files and the `assets` folder, then select **Commit changes**.
+## Featured Projects
 
-## Publish with GitHub Pages
+### Windows Server Administration
 
-1. Open the repository's **Settings**.
-2. Select **Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**.
-4. Select the `main` branch and `/ (root)`, then save.
-5. GitHub will create a public address similar to:
-   `https://andreeavp.github.io/andreea-it-portfolio/`
+Configured a Windows Server environment, created user accounts and groups, assigned permissions and tested access controls using Windows virtual machines.
 
-The existing ChatGPT-hosted portfolio is separate and will not be affected by uploading this copy to GitHub.
+### Cisco Network Design
+
+Designed logical and physical network topologies in Cisco Packet Tracer, incorporating routers, switches, a DHCP server and departmental workstations.
+
+### AWS Cloud Networking
+
+Developed cloud network architectures using AWS concepts including VPCs, subnets, routing, EC2 instances and security groups.
+
+### AWS Security and Applied Cryptography
+
+Explored IAM users, groups, policies and role-based access alongside encryption, key management and cloud data-protection principles.
+
+### IoT Smart Alarm Prototype
+
+Designed an IoT alarm system using hardware and software components, including a motherboard, processor, sensors and connected-system architecture.
+
+### Business Intelligence and Power BI
+
+Cleaned, transformed and modelled data before developing interactive dashboards to communicate business insights and performance trends.
+
+### Groupomania Social Network
+
+Contributed to a full-stack social-network project during my Web Development Diploma, applying front-end and back-end development concepts.
+
+## Technical Skills
+
+* IT support and end-user troubleshooting
+* Windows Server and user administration
+* Active Directory concepts and permission management
+* Networking, DHCP, DNS, routers and switches
+* Cisco Packet Tracer
+* AWS cloud services and IAM
+* Cybersecurity and applied cryptography
+* HTML, CSS and JavaScript
+* Python fundamentals
+* Power BI and data visualisation
+* Internet of Things concepts
+* Git, GitHub and Visual Studio Code
+
+## Current Development
+
+I am currently strengthening my practical IT support knowledge and preparing for the CompTIA A+ certification, with the goal of securing an entry-level IT Support, Help Desk or Service Desk position.
+
+## Connect With Me
+
+* [LinkedIn](https://www.linkedin.com/in/andreea-poamaneagra-60283b255)
+* [GitHub](https://github.com/AndreeaVP)
